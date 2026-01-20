@@ -1,5 +1,5 @@
 <?php
 
-use Codedor\OnlineScope\Tests\TestCase;
+use Wotz\OnlineScope\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

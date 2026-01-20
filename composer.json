@@ -1,40 +1,39 @@
 {
-    "name": "codedor/laravel-online-scope",
+    "name": "wotz/laravel-online-scope",
     "description": "Package that adds an online scope",
     "keywords": [
-        "codedor",
+        "who owns the zebra",
         "laravel",
         "laravel-online-scope"
     ],
-    "homepage": "https://github.com/codedor/laravel-online-scope",
+    "homepage": "https://github.com/wotzebra/laravel-online-scope",
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
+        "filament/filament": "^4.0|^5.0",
         "illuminate/contracts": "^10.0|^11.0|^12.0",
         "spatie/laravel-package-tools": "^1.12",
         "spatie/laravel-translatable": "^6.5"
     },
     "require-dev": {
-        "filament/upgrade": "^4.0",
         "larastan/larastan": "^2.0|^3.0",
         "laravel/pint": "^1.0",
         "nunomaduro/collision": "^7.0|^8.0",
         "orchestra/testbench": "^8.0|^9.0|^10.0",
-        "pestphp/pest": "^2.0|^3.0",
-        "pestphp/pest-plugin-laravel": "^2.0|^3.0",
+        "pestphp/pest": "^2.0|^3.0|^4.0",
+        "pestphp/pest-plugin-laravel": "^2.0|^3.0|^4.0",
         "phpstan/extension-installer": "^1.1|^2.0",
         "phpstan/phpstan-deprecation-rules": "^1.0|^2.0",
         "phpstan/phpstan-phpunit": "^1.0|^2.0"
     },
     "autoload": {
         "psr-4": {
-            "Codedor\\OnlineScope\\": "src"
+            "Wotz\\OnlineScope\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Codedor\\OnlineScope\\Tests\\": "tests"
+            "Wotz\\OnlineScope\\Tests\\": "tests"
         }
     },
     "extra": {
