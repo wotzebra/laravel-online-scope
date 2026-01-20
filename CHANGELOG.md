@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v2.0.0 - 2026-01-20
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.3.0 to 2.4.0 by @dependabot[bot] in https://github.com/codedor/laravel-online-scope/pull/15
+* Bump aglipanci/laravel-pint-action from 2.5 to 2.6 by @dependabot[bot] in https://github.com/codedor/laravel-online-scope/pull/18
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/codedor/laravel-online-scope/pull/23
+* Bump actions/checkout from 3 to 6 by @dependabot[bot] in https://github.com/codedor/laravel-online-scope/pull/22
+* Upgrade to Filament v5 by @jyrkidn in https://github.com/codedor/laravel-online-scope/pull/21
+* Bump stefanzweifel/git-auto-commit-action from 4 to 7 by @dependabot[bot] in https://github.com/codedor/laravel-online-scope/pull/20
+* Upgrade to Filament v4 by @jyrkidn in https://github.com/codedor/laravel-online-scope/pull/16
+* Upgrade to Filament v5 by @jyrkidn in https://github.com/codedor/laravel-online-scope/pull/21
+
+**Full Changelog**: https://github.com/codedor/laravel-online-scope/compare/v1.2.0...v2.0.0
+
 ## v1.2.0 - 2025-02-28
 
 ### What's Changed
