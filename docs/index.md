@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This package adds an online scope to ypur model, if it has an `online` boolean column.
+This package adds an online scope to your model, if it has an `online` boolean column.
 It will also check if the model is translatable using the [`spatie/laravel-translatable`](https://github.com/spatie/laravel-translatable) package.
 
 ## Installation
@@ -10,7 +10,7 @@ It will also check if the model is translatable using the [`spatie/laravel-trans
 You can install the package via composer:
 
 ```bash
-composer require codedor/laravel-online-scope
+composer require wotz/laravel-online-scope
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ By loading the `HasOnlineScope` trait, the online scope will be added globally f
 ```php
 class Post extends Model
 {
-    use \Codedor\OnlineScope\Model\Traits\HasOnlineScope;
+    use \Wotz\OnlineScope\Model\Traits\HasOnlineScope;
 }
 ```
 
