@@ -1,6 +1,6 @@
 # Package that adds an online scope
 
-This package adds an online scope to ypur model, if it has an `online` boolean column.
+This package adds an online scope to your model, if it has an `online` boolean column.
 It will also check if the model is translatable using the [`spatie/laravel-translatable`](https://github.com/spatie/laravel-translatable) package.
 
 ## Installation
@@ -8,13 +8,13 @@ It will also check if the model is translatable using the [`spatie/laravel-trans
 You can install the package via composer:
 
 ```bash
-composer require codedor/laravel-online-scope
+composer require wotz/laravel-online-scope
 ```
 
 ## Usage
 
 ```php
-use Codedor\OnlineScope\Model\Traits\HasOnlineScope;
+use Wotz\OnlineScope\Model\Traits\HasOnlineScope;
 ```
 
 ## Documentation
@@ -41,7 +41,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
-If you discover any security-related issues, please email info@codedor.be instead of using the issue tracker.
+If you discover any security-related issues, please email info@whoownsthezebra.be instead of using the issue tracker.
 
 ## License
 

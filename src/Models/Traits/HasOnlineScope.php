@@ -1,8 +1,8 @@
 <?php
 
-namespace Codedor\OnlineScope\Models\Traits;
+namespace Wotz\OnlineScope\Models\Traits;
 
-use Codedor\OnlineScope\Models\Scopes\OnlineScope;
+use Wotz\OnlineScope\Models\Scopes\OnlineScope;
 
 trait HasOnlineScope
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Codedor\OnlineScope\Tests;
+namespace Wotz\OnlineScope\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 
